@@ -1,6 +1,7 @@
 package com.example.meteoxiaomi
 
 import android.os.Bundle
+import androidx.compose.foundation.verticalScroll
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
